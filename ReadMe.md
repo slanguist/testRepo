@@ -9,7 +9,7 @@
 * [GitHub Pages](https://pages.github.com/)
 * [Git Cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 * [Visual Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=stash;)
-* 
+
 
 > To know, is to know that you know nothing. That is the meaning of true Wisdom. 
 >   **Socrates**
