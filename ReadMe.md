@@ -1,4 +1,9 @@
 # testRepo: The Test Repository!
+
+> To know, is to know that you know nothing. That is the meaning of true Wisdom. 
+
+>   **Socrates**
+
 ## Purpose: 
 **_Learning GitHub_**, this repo is for **playing around/experimenting**
   and _holding resources_ to refresh my memory on ~~the basics of~~ Git and GitHub
@@ -12,6 +17,5 @@
 * [Adding an existing project to GitHub using Command Line](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
 
 
-> To know, is to know that you know nothing. That is the meaning of true Wisdom. 
->   **Socrates**
+
 
